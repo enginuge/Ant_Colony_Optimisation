@@ -1,4 +1,4 @@
-# Install script for directory: /home/llama/programs/C++_programs/Ant_Colony_Optimisation
+# Install script for directory: /home/llama/programs/GitHub/Ant_Colony_Optimisation
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -50,5 +50,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/llama/programs/C++_programs/Ant_Colony_Optimisation/build/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/llama/programs/GitHub/Ant_Colony_Optimisation/build/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

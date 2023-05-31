@@ -1,5 +1,5 @@
 CMakeFiles/Ant_Colony_Optimisation.dir/src/ant.cpp.o: \
- /home/llama/programs/C++_programs/Ant_Colony_Optimisation/src/ant.cpp \
+ /home/llama/programs/GitHub/Ant_Colony_Optimisation/src/ant.cpp \
  /usr/include/stdc-predef.h /usr/include/c++/12/vector \
  /usr/include/c++/12/bits/stl_algobase.h \
  /usr/include/x86_64-linux-gnu/c++/12/bits/c++config.h \
@@ -50,6 +50,6 @@ CMakeFiles/Ant_Colony_Optimisation.dir/src/ant.cpp.o: \
  /usr/include/c++/12/backward/binders.h \
  /usr/include/c++/12/bits/range_access.h \
  /usr/include/c++/12/bits/vector.tcc \
- /home/llama/programs/C++_programs/Ant_Colony_Optimisation/src/point.h \
- /home/llama/programs/C++_programs/Ant_Colony_Optimisation/src/city.h \
- /home/llama/programs/C++_programs/Ant_Colony_Optimisation/src/ant.h
+ /home/llama/programs/GitHub/Ant_Colony_Optimisation/src/point.h \
+ /home/llama/programs/GitHub/Ant_Colony_Optimisation/src/city.h \
+ /home/llama/programs/GitHub/Ant_Colony_Optimisation/src/ant.h
