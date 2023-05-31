@@ -21,7 +21,10 @@ int main (int argc, char *argv[]) {
 
 	City city_one = cities.at(1);
 
-	std::cout << "City_one ID: " << city_one.getID() << std::endl;
+	for (City current_city : cities) {
+		std::cout << "City_one ID: " << current_city.getID() << std::endl;
 
+		std::cout << "City_one x and y: " << current_city.getX()  << ", " << current_city.getY() << std::endl;
+	}
 	return 0;
 }
