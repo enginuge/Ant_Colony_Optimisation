@@ -17,14 +17,18 @@ int main (int argc, char *argv[]) {
 
 	std::vector<City> cities;
 
+	std::vector<Ant> ants;
+
 	cities = return_cities("coordinates.txt");
 
 	City city_one = cities.at(1);
 
-	for (City current_city : cities) {
+	for (City current_city : cities)
+	{
 		std::cout << "City_one ID: " << current_city.getID() << std::endl;
 
 		std::cout << "City_one x and y: " << current_city.getX()  << ", " << current_city.getY() << std::endl;
 	}
+
 	return 0;
 }
